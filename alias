@@ -1,0 +1,4 @@
+alias gp="git push"
+alias cdD="cd Desktop"
+alias sb="source ~/.bashrc"
+
