@@ -1,1 +1,4 @@
-for question4, i opened statistics.dat and used :vsplit  to split screen in half. the I opened a new file called rocket. then I selected the first column from the file, yanked it and pasted it in the new file. Saved both files then exited
+
+for question4, I opened statistics.dat and used :vsplit  to split screen in half.
+Then I opened a new file called rocket.
+I selected the first column from the file, yanked it and pasted it in the new file. Saved both files then exited
